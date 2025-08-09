@@ -1,0 +1,8 @@
+{
+  "@krassowski/jupyterlab-lsp:plugin": {
+    "loggingLevel": "error"
+  },
+  "@krassowski/jupyterlab-lsp:completion": {
+    "layout": "detail-below"
+  }
+}
